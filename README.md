@@ -6,3 +6,4 @@ The images are resized to 128x128 pixels, converted to grayscale, and binarized 
 
 Model Architecture:
 The model is a Convolutional Neural Network (CNN) designed for binary classification. It consists of three convolutional blocks for feature extraction and a fully connected classifier. Batch normalization, ReLU activations, and dropout are incorporated for stable training and overfitting prevention. The final layer outputs probabilities for the two classes.
+The data set can be find at https://ceb.nlm.nih.gov/repositories/malaria-datasets/
